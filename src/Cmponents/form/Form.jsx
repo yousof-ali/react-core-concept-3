@@ -3,7 +3,7 @@ import { useState } from "react";
 
 const Form = () => {
     
-    const[form,setForm]=useState(null)
+    const[form,setForm]=useState('')
 
     const value =e=>{
         
